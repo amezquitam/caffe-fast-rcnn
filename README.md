@@ -37,4 +37,4 @@ Please cite Caffe in your publications if it helps your research:
     }
 
 
-By Miguel
+By Miguel 
